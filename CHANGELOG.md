@@ -1,3 +1,8 @@
+## 1.3.3 (September 04, 2015)
+
+  - v1.3.3 of the Pikaday gem
+  - https://github.com/dbushell/Pikaday/blob/master/CHANGELOG.md#133---2015-02-17
+  
 ## 1.2.0 (April 28, 2014)
 
   - v1.2.0 of the Pikaday gem
