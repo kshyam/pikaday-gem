@@ -1,3 +1,3 @@
 module PikadayGem
-  VERSION = "1.3.3"
+  VERSION = "1.8.0"
 end
